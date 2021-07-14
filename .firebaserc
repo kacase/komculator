@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kkc-re": {
+      "hosting": {
+        "komculator": [
+          "kkc-re"
+        ]
+      }
+    }
+  }
+}
